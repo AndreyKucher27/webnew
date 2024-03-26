@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(#24228a,#2d36bd,#4060ca,#7272b9, #d1d1d1);;
+    background-image: linear-gradient(#f5834a,#fbffff,#ffffff,#ffffff, #ffffff);;
     font-size: 12px;
     font-family: 'Times New Roman', serif;
     align-content: center;
@@ -8,7 +8,7 @@ body {
 .fon1 {
     width: 90%;
     margin: auto;
-    background-color: #7ea7e6;
+    background-color: #f17351;
     border: 2px solid #0c233d;
 }
 
